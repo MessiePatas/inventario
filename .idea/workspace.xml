@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25ddd9fd-1515-40c9-9a37-6d12f80b42a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inventario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/controller/DTO/ProductoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/controller/DTO/RespuestaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/controller/ProductoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/logica/ProductoLogica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/persistencia/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/persistencia/ProductoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Inventario/Inventario/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/build/classes/java/main/co/gestor/Inventario/InventarioApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/build/classes/java/main/co/gestor/Inventario/SaludoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Inventario/Inventario/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/SaludoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/controller/SaludoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Inventario/Inventario">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "git-widget-placeholder": "Juan-Branch",
+    "last_opened_file_path": "C:/Users/User/Downloads/siga 3/siga/build.gradle.kts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="InventarioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Inventario.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.gestor.Inventario.InventarioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
