@@ -1,18 +1,16 @@
 package co.gestor.Inventario.logica;
+
 import co.gestor.Inventario.controller.DTO.ProductoDTO;
 import co.gestor.Inventario.modelo.Producto;
 import co.gestor.Inventario.repository.ProductoRepository;
-
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
 @AllArgsConstructor
 public class ProductoLogica implements IService {
-    @Autowired
-    private final ProductoRepository productoRepository;
 
+    private final ProductoRepository productoRepository;
 
     public Producto guardarProducto(ProductoDTO productoDTO) {
         if ("papel".equals(productoDTO.getNombre())) {
@@ -25,5 +23,6 @@ public class ProductoLogica implements IService {
 
         return productoBD;
     }
+
 
 }
