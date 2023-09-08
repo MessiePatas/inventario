@@ -1,7 +1,4 @@
-package co.gestor.Inventario.persistencia;
-
-
-
+package co.gestor.Inventario.modelo;
 import lombok.Data;
 
 import javax.persistence.Column;

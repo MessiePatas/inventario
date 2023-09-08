@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25ddd9fd-1515-40c9-9a37-6d12f80b42a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inventario.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/controller/DTO/ProductoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/controller/DTO/RespuestaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/controller/ProductoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/logica/ProductoLogica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/persistencia/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/persistencia/ProductoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Inventario/Inventario/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/build/classes/java/main/co/gestor/Inventario/InventarioApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/build/classes/java/main/co/gestor/Inventario/SaludoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Inventario/Inventario/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/SaludoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/java/co/gestor/Inventario/controller/SaludoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inventario/Inventario/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Inventario/Inventario/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="25ddd9fd-1515-40c9-9a37-6d12f80b42a9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +42,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -68,6 +51,7 @@
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "Juan-Branch",
     "last_opened_file_path": "C:/Users/User/Downloads/siga 3/siga/build.gradle.kts",
     "node.js.detected.package.eslint": "true",
